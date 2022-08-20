@@ -20,13 +20,16 @@
     width: 100px;
     height: 65%;
 }
+.display-box:hover{
+    background-color: olive;
+    color: black;
 #btn{
     background-color: antiquewhite; 
     color:aquamarine;
 }
-#btn:hover{
-    background-color: yellow;
-    color: greenyellow;
+.button:hover{
+    background-color: greenyellow;
+    color: brown;
 
 }
 
